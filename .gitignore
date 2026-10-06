@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.openai/
+.sites-runtime/
+.npm-cache/
+*.log
+*.pem
+*.key
+.DS_Store
+Thumbs.db
