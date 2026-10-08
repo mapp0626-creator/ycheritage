@@ -26,7 +26,7 @@ src/
   script.js           움직임 정지/재생 및 연도 표시
 public/assets/
   logo.png            제공받은 원본 로고
-  landscape.jpg       메인 사진
+  hero_muted.jpg       영상 재생 전 사진
 scripts/
   build.mjs           정적 파일 생성
   server.mjs          개발/미리보기 서버
